@@ -3,4 +3,4 @@ Simple neural network
 
 Activation function is SIGMOID
 
-Loss function is MSE
+Loss function is Cross Entropy
