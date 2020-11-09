@@ -1,6 +1,6 @@
 # NeuralNetwork
 Simple neural network
 
-Activation function is SIGMOID
+Activation function is SOFTMAX
 
 Loss function is Cross Entropy
